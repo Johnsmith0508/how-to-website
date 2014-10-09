@@ -9,8 +9,11 @@ p {
   font-family: "Lucida Console";
   font-size: 20px;
 }
-.test {
-    vertical-align: text-bottom;
+.footer {
+    position: fixed;
+    bottom: 0px;
+    height:30px;
+    width:100%;
     background-color: white;
 }
 .head {
