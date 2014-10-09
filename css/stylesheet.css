@@ -13,3 +13,8 @@ p {
     vertical-align: text-bottom;
     background-color: white;
 }
+.head {
+  color: red;
+  text-align: center;
+  font-size: 60px;
+}
