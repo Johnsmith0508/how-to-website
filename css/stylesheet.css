@@ -26,4 +26,6 @@ p {
   background-color: black;
   font-family: "Courier New";
   font-size: 12px;
+  padding-left: 20px;
+  padding-right: 60px;
 }
