@@ -2,3 +2,8 @@ users {
   background-color: #818182;
   width: 100%;
 }
+name,other {
+  display: block;
+  color: #000000;
+  margin-left: 20pt;
+}
