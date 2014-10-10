@@ -8,6 +8,7 @@ body{
 p {
   font-family: "Lucida Console";
   font-size: 15px;
+  text-align: center;
 }
 .top {
     text-align: center;
@@ -29,7 +30,7 @@ p {
     width:100%;
     background-color: #555;
 }
-}
+
 .head {
   color: #64A84D;
   text-align: center;
