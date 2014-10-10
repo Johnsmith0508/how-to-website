@@ -1,14 +1,31 @@
 body{
-  background-color: #818182;
+  background-color: #858585;
 }
-/*h1 {
-  color: blue;
-  text-align: right;
-}*/
 p {
   font-family: "Lucida Console";
   font-size: 15px;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+h2,h3,h4,h5,h6 {
+    color: rgba(176, 206, 182, 0.54);
+    text-align: center;
+    font-family: "Lucida Console";
+    
+}
+.footer {
+    position: fixed;
+    bottom: 0px;
+    height:70px;
+    width:100%;
+    background-color: #555;
+}
+.head {
+  color: #64A84D;
   text-align: center;
+  font-size: 30px;
+    font-family: monospace;
 }
 .top {
     text-align: center;
@@ -23,24 +40,32 @@ p {
     transform: rotate(30deg);
     
 }
-.footer {
-    position: fixed;
-    bottom: 0px;
-    height:70px;
-    width:100%;
-    background-color: #555;
-}
-
-.head {
-  color: #64A84D;
-  text-align: center;
-  font-size: 30px;
-}
 .code {
   color: white;
-  background-color: black;
+  background-color: #4d4848;
   font-family: "Courier New";
   font-size: 12px;
-  width: 500px;
+  width: 40%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
+/* unvisited link */
+.top a:link {
+    color: black;
+}
+
+/* visited link */
+.top a:visited {
+    color: #2d1daa;
+}
+
+/* mouse over link */
+.top a:hover {
+    color: #227c12;
+}
+
+/* selected link */
+.top a:active {
+    color: #7eba6a;
+}
