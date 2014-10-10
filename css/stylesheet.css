@@ -9,6 +9,19 @@ p {
   font-family: "Lucida Console";
   font-size: 15px;
 }
+.top {
+    text-align: center;
+    position: fixed;
+    top: 39px;
+    right: -20px;
+    height: auto;
+    width: 20%;
+    background-color: white;
+    -ms-transform: rotate(30deg); /* IE 9 */
+    -webkit-transform: rotate(30deg); /* Chrome, Safari, Opera */
+    transform: rotate(30deg);
+    
+}
 .footer {
     position: fixed;
     bottom: 0px;
