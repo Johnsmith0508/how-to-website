@@ -21,3 +21,9 @@ p {
   text-align: center;
   font-size: 30px;
 }
+.code {
+  color: wwhite;
+  background-color: black;
+  font-family: "Courier New";
+  font-size: 12px;
+}
