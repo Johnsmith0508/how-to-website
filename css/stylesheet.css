@@ -9,19 +9,19 @@ p {
   font-family: "Lucida Console";
   font-size: 15px;
 }
-#footer {
+.footer {
     position: fixed;
     bottom: 0px;
     height:30px;
     width:100%;
     background-color: white;
 }
-#head {
+.head {
   color: #64A84D;
   text-align: center;
   font-size: 30px;
 }
-#code {
+.code {
   color: white;
   background-color: black;
   font-family: "Courier New";
