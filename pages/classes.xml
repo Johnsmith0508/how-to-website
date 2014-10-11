@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="css/xml_stylesheet.css"?>
+<classes>
+    <class>
+        <name>CST network sys cfg</name>
+        <full>CSIT Network Systems Configuration</full>
+        <level>Honors</level>
+    </class>
+    <class>
+        <name>CST Esentials</name>
+        <full>CSIT Esentials</full>
+        <level>Honors</level>
+    </class>
+
+</classes>
