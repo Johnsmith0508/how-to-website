@@ -2,8 +2,18 @@ classes {
   background-color: #818182;
   width: 100%;
 }
-name,full,level {
+name {
+    display: block;
+    color: #000000;
+    margin-left: 20px;
+}
+prereq {
+    display: block;
+    color: #000000;
+    margin-left: 60px;
+}
+full,level {
   display: block;
   color: #000000;
-  margin-left: 20pt;
+  margin-left: 40pt;
 }
