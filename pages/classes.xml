@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/css/classes.xsl"?>
-<!--<?xml-stylesheet type="text/css" href="css/xml_stylesheet.css"?>-->
+<!-- THis means nothing D= <?xml-stylesheet type="text/xsl" href="/css/classes.xsl"?> -->
+<?xml-stylesheet type="text/css" href="css/xml_stylesheet.css"?>
 <!--To see this page with basic formating, remove the comments from the above line-->
 <classes>
     <class>

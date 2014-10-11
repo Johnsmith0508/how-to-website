@@ -5,14 +5,26 @@ p {
   font-family: "Lucida Console";
   font-size: 15px;
     text-align: center;
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 h2,h3,h4,h5,h6 {
     color: rgba(176, 206, 182, 0.54);
     text-align: center;
     font-family: "Lucida Console";
     
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+        margin-left: auto;
+    margin-right: auto;
+    background-color: #285828;
+}
+th, td {
+    text-align: center;
+    padding: 5px;
 }
 .footer {
     position: fixed;
